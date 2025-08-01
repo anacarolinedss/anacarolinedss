@@ -1,11 +1,11 @@
-## Seja bem-vindo ao meu mundo! 🌎
+## Seja bem-vindo ao meu Github! 🌎
 
 # 👩🏻‍💻 Ana Caroline
 
 **`Analista de Dados`**
 
 <p align="justify">
-Sou Ana Caroline, baiana apaixonada por dados, tecnologia e soluções que geram impacto. Formada em Biologia pela UFRB, atuei com geotecnologias e análise ambiental, onde desenvolvi uma visão analítica e voltada à resolução de problemas. Hoje curso Análise e Desenvolvimento de Sistemas na Uninter e <b>direciono minha carreira para a área de Dados</b>, unindo minha bagagem multidisciplinar com foco em resultados.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Uninter, com interesse em resolver problemas por meio da tecnologia. Tenho formação em Biologia pela UFRB, onde trabalhei com geotecnologias e análises ambientais. Foi nesse contexto que me aproximei do universo digital e, desde então, venho me dedicando a temas como dados e inteligência artificial. 
 </p>
 
 ---
